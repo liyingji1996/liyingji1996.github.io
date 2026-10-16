@@ -51,29 +51,25 @@ My research interests include trustworthy artificial intelligence, natural langu
 <span class='anchor' id='-xl'></span>
 ## 📚 Selected Publications | 代表论文
 
-- 📄[Retrieval Augmentation for Out-of-Distribution Robustness in Non-knowledge Intensive In-Context Learning](http://engine.scichina.com/doi/10.1007/s11432-025-4558-9)<br>*SCIENCE CHINA Information Sciences (SCIS), 2025*, 中科院一区 Top, CCF A<br>
-  🖊 <span style="background-color:#e6f4ff; padding:2px 6px; border-radius:4px;">Rui Song</span>, Fausto Giunchiglia, Yingji Li, Mingjie Tian, & Hao Xu.
+论文列表根据 Google Scholar 主页（user=3Ysa5ngAAAAJ）更新，完整列表请见上方 Scholar 链接。
 
-- 📄[TACIT: A Target-Agnostic Feature Disentanglement Framework for Cross-Domain Text Classification](https://ojs.aaai.org/index.php/AAAI/article/view/29866)<br> *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024*, CCF A<br>
-  🖊 <span style="background-color:#e6f4ff; padding:2px 6px; border-radius:4px;">Rui Song</span>, Yingji Li, Fausto Giunchiglia, & Hao Xu.
+- 📄[A Survey on Fairness in Large Language Models](https://arxiv.org/abs/2308.10149)<br>*arXiv preprint, 2023*<br>
+  🖊 Yingji Li, Mengnan Du, Rui Song, Xin Wang, & Ying Wang.
 
-- 📄[Causal keyword driven reliable text classification with large language model feedback](https://www.sciencedirect.com/science/article/pii/S0950705125006653)<br> *Information Processing & Management (IPM), 2025*, 中科院一区 Top, CCF B<br>
-  🖊 <span style="background-color:#e6f4ff; padding:2px 6px; border-radius:4px;">Rui Song</span>, Yingji Li, Mingjie Tian, Hanwen Wang, Fausto Giunchiglia, & Hao Xu.
+- 📄Prompt Tuning Pushes Farther, Contrastive Learning Pulls Closer: A Two-Stage Approach to Mitigate Social Biases<br>*Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023*<br>
+  🖊 Yingji Li, Mengnan Du, Xin Wang, & Ying Wang.
 
-- 📄[KALD: A knowledge augmented multi-contrastive learning model for low resource Abusive Language Detection](https://www.sciencedirect.com/science/article/pii/S0950705125006653)<br> *Knowledge-Based Systems (KBS), 2025*, 中科院一区 Top, CCF C<br>
-  🖊 <span style="background-color:#e6f4ff; padding:2px 6px; border-radius:4px;">Rui Song</span>, Fausto Giunchiglia, Yingji Li, Jian Li, Jingwen Wang, & Hao Xu.
+- 📄Mitigating Social Biases of Pre-trained Language Models via Contrastive Self-Debiasing with Double Data Augmentation<br>*Artificial Intelligence, 2024*<br>
+  🖊 Yingji Li, Mengnan Du, Rui Song, Xin Wang, Mingchen Sun, & Ying Wang.
 
-- 📄[SUNET: Speaker-utterance interaction graph neural network for emotion recognition in conversations](https://www.sciencedirect.com/science/article/pii/S0952197623004992)<br> *Engineering Applications of Artificial Intelligence (EAAI), 2023*, 中科院一区 Top, CCF C<br>
-  🖊 <span style="background-color:#e6f4ff; padding:2px 6px; border-radius:4px;">Rui Song</span>, Fausto Giunchiglia, Lida Shi, Qiang Shen, & Hao Xu.
+- 📄Data-centric Explainable Debiasing for Improving Fairness in Pre-trained Language Models<br>*Findings of ACL, 2024*<br>
+  🖊 Yingji Li, Mengnan Du, Rui Song, Xin Wang, & Ying Wang.
 
-- 📄[Measuring and mitigating language model biases in abusive language detection](https://www.sciencedirect.com/science/article/pii/S0306457323000146)<br> *Information Processing & Management (IPM), 2025*, 中科院一区 Top, CCF B<br>
-  🖊 <span style="background-color:#e6f4ff; padding:2px 6px; border-radius:4px;">Rui Song</span>, Fausto Giunchiglia, Yingji Li, Lida Shi, & Hao Xu.
+- 📄BATED: Learning Fair Representation for Pre-trained Language Models via Biased Teacher-Guided Disentanglement<br>*Artificial Intelligence, 2025*<br>
+  🖊 Yingji Li, Mengnan Du, Rui Song, Mengjie Liu, & Ying Wang.
 
-- 📄[Improving abusive language detection with online interaction network](https://www.sciencedirect.com/science/article/pii/S0306457322001200)<br> *Information Processing & Management (IPM), 2025*, 中科院一区 Top, CCF B<br>
-  🖊 <span style="background-color:#e6f4ff; padding:2px 6px; border-radius:4px;">Rui Song</span>, Fausto Giunchiglia, Qiang Shen, Nan Li, & Hao Xu.
-
-- 📄[Counterfactual contrastive learning for robust text classification based on word group search](https://www.sciencedirect.com/science/article/pii/S0020025525007121)<br> *Information Sciences, 2025*, CCF B<br>
-  🖊 <span style="background-color:#e6f4ff; padding:2px 6px; border-radius:4px;">Rui Song</span>, Fausto Giunchiglia, Yingji Li, Lida Shi, & Hao Xu.
+- 📄Enhancing Multimodal Large Language Models for Ancient Chinese Character Evolution Analysis via Glyph-driven Fine-tuning<br>*Proceedings of ACL, 2026*<br>
+  🖊 Rui Song, Lida Shi, Ruihua Qi, Yingji Li, & Hao Xu.
 
 <span class='anchor' id='-lwzl'></span>
 
