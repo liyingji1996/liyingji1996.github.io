@@ -249,6 +249,11 @@ body {
   background: linear-gradient(90deg, rgba(114, 87, 232, .4), transparent);
 }
 
+.education-list { display: grid; gap: 1rem; margin: 1.25rem 0 2rem; }
+.education-card { padding: 1.15rem 1.3rem; border: 1px solid rgba(114, 87, 232, .12); border-left: 4px solid var(--violet); border-radius: 14px; background: rgba(255, 255, 255, .65); box-shadow: 0 8px 24px rgba(41, 52, 91, .06); line-height: 1.8; }
+.education-card strong { color: var(--navy); }
+.education-card em { color: var(--muted-ink); }
+
 .page__content ul:not(.author__urls) {
   padding-left: 0;
 }

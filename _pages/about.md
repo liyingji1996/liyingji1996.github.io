@@ -25,13 +25,19 @@ My research interests include trustworthy artificial intelligence, natural langu
 
 <span class='anchor' id='-xl'></span>
 
-- **Ph.D.** School of Artificial Intelligence, Jilin University *(2020 - 2024)*
-  - Mentor [Prof. Fausto Giunchiglia](http://fausto.disi.unitn.it) (**Member of the European Academy of Sciences**, **Foreign Member of Chinese Academy of Sciences**) and [Prof. Hao Xu (徐昊)](https://ccst.jlu.edu.cn/info/1367/19077.htm)
-    
-- **M.S.** College of Computer Science and Technology, Jilin University *(2018 - 2020)*
-  - Mentor [Prof. Lan Huang (黄岚)](https://ccst.jlu.edu.cn/info/1194/17198.htm)
-
-- **B.S.** School of Software Engineering, Jilin University *(2014 - 2018)*
+<div class="education-list">
+  <div class="education-card">
+    <strong>Ph.D.</strong> · School of Artificial Intelligence, Jilin University <em>(2020 - 2024)</em><br>
+    Mentor <a href="http://fausto.disi.unitn.it">Prof. Fausto Giunchiglia</a> (Member of the European Academy of Sciences, Foreign Member of Chinese Academy of Sciences) and <a href="https://ccst.jlu.edu.cn/info/1367/19077.htm">Prof. Hao Xu (徐昊)</a>
+  </div>
+  <div class="education-card">
+    <strong>M.S.</strong> · College of Computer Science and Technology, Jilin University <em>(2018 - 2020)</em><br>
+    Mentor <a href="https://ccst.jlu.edu.cn/info/1194/17198.htm">Prof. Lan Huang (黄岚)</a>
+  </div>
+  <div class="education-card">
+    <strong>B.S.</strong> · School of Software Engineering, Jilin University <em>(2014 - 2018)</em>
+  </div>
+</div>
 
 <span class='anchor' id='-lwzl'></span>
 
@@ -54,22 +60,22 @@ My research interests include trustworthy artificial intelligence, natural langu
 论文列表根据 Google Scholar 主页（user=3Ysa5ngAAAAJ）更新，完整列表请见上方 Scholar 链接。
 
 - 📄[A Survey on Fairness in Large Language Models](https://arxiv.org/abs/2308.10149)<br>*arXiv preprint, 2023*<br>
-  🖊 Yingji Li, Mengnan Du, Rui Song, Xin Wang, & Ying Wang.
+  🖊 <strong>Yingji Li</strong>, Mengnan Du, Rui Song, Xin Wang, & Ying Wang.
 
 - 📄Prompt Tuning Pushes Farther, Contrastive Learning Pulls Closer: A Two-Stage Approach to Mitigate Social Biases<br>*Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023*<br>
-  🖊 Yingji Li, Mengnan Du, Xin Wang, & Ying Wang.
+  🖊 <strong>Yingji Li</strong>, Mengnan Du, Xin Wang, & Ying Wang.
 
 - 📄Mitigating Social Biases of Pre-trained Language Models via Contrastive Self-Debiasing with Double Data Augmentation<br>*Artificial Intelligence, 2024*<br>
-  🖊 Yingji Li, Mengnan Du, Rui Song, Xin Wang, Mingchen Sun, & Ying Wang.
+  🖊 <strong>Yingji Li</strong>, Mengnan Du, Rui Song, Xin Wang, Mingchen Sun, & Ying Wang.
 
 - 📄Data-centric Explainable Debiasing for Improving Fairness in Pre-trained Language Models<br>*Findings of ACL, 2024*<br>
-  🖊 Yingji Li, Mengnan Du, Rui Song, Xin Wang, & Ying Wang.
+  🖊 <strong>Yingji Li</strong>, Mengnan Du, Rui Song, Xin Wang, & Ying Wang.
 
 - 📄BATED: Learning Fair Representation for Pre-trained Language Models via Biased Teacher-Guided Disentanglement<br>*Artificial Intelligence, 2025*<br>
-  🖊 Yingji Li, Mengnan Du, Rui Song, Mengjie Liu, & Ying Wang.
+  🖊 <strong>Yingji Li</strong>, Mengnan Du, Rui Song, Mengjie Liu, & Ying Wang.
 
 - 📄Enhancing Multimodal Large Language Models for Ancient Chinese Character Evolution Analysis via Glyph-driven Fine-tuning<br>*Proceedings of ACL, 2026*<br>
-  🖊 Rui Song, Lida Shi, Ruihua Qi, Yingji Li, & Hao Xu.
+  🖊 Rui Song, Lida Shi, Ruihua Qi, <strong>Yingji Li</strong>, & Hao Xu.
 
 <span class='anchor' id='-lwzl'></span>
 
