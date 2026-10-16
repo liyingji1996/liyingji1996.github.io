@@ -18,8 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a postdoctoral fellow at the [College of Computer Science and Technology](https://ccst.jlu.edu.cn/), [Jilin University](https://www.jlu.edu.cn/).
-My research interests are in natural language processing, shortcut learning/bias in pretrained language models. I am also exploring research on ancient Chinese scripts empowered by artificial intelligence.
+I am a Dingxin Scholar and Assistant Researcher at the [College of Computer Science and Technology](https://ccst.jlu.edu.cn/), [Jilin University](https://www.jlu.edu.cn/). I completed both my bachelor's and doctoral degrees at Jilin University.
+My research interests include trustworthy artificial intelligence, natural language processing, large language models, multimodal learning, and ancient Chinese scripts empowered by artificial intelligence.
 
 ## 🎓 Education | 教育经历
 

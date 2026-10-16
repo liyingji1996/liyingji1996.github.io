@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yingji Li (李莹姬)"
   avatar           : "images/me.jpg"
-  bio              : "Postdoctoral Fellow"
+  bio              : "Dingxin Scholar / Assistant Researcher"
   location         : "Chang Chun, China"
   employer         : "Jilin University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=sNqQk8kAAAAJ&hl=zh-CN&oi=sra"
-  email            : "songrui@jlu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Rui-Song-71"
+  email            : ""
+  researchgate     : ""
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "songruiecho"
+  github           : ""
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-2824-9775"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
