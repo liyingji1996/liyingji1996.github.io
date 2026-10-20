@@ -97,3 +97,21 @@ My research interests include trustworthy artificial intelligence, natural langu
   </div>
 </div>
 <span class='anchor' id='-lwzl'></span>
+
+<span class='anchor' id='-jxhr'></span>
+## 🏆 Awards & Honors | 奖项荣誉
+<div class="award-list">
+  <div class="award-card">
+    <strong>[1] ACM中国优秀博士论文奖（1/1）</strong><br>
+    <span>ACM中国理事会，2025</span>
+  </div>
+  <div class="award-card">
+    <strong>[2] CCF教学成果奖“‘教材建设+AI赋能+产教融合’三位一体的计算机网络课程改革与实践”（7/9）</strong><br>
+    <span>中国计算机学会，2025</span>
+  </div>
+  <div class="award-card">
+    <strong>[3] 研究生国家奖学金（1/1）</strong><br>
+    <span>中华人民共和国教育部，2023</span>
+  </div>
+</div>
+<span class='anchor' id='-lwzl'></span>

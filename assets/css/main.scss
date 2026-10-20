@@ -257,6 +257,10 @@ body {
 .project-card { padding: 1.15rem 1.3rem; border: 1px solid rgba(53, 198, 208, .18); border-left: 4px solid var(--cyan); border-radius: 14px; background: rgba(255, 255, 255, .65); box-shadow: 0 8px 24px rgba(41, 52, 91, .06); line-height: 1.8; }
 .project-card strong { color: var(--navy); }
 .project-card span { color: var(--muted-ink); }
+.award-list { display: grid; gap: 1rem; margin: 1.25rem 0 2rem; }
+.award-card { padding: 1.15rem 1.3rem; border: 1px solid rgba(218, 166, 58, .22); border-left: 4px solid #d9a63a; border-radius: 14px; background: rgba(255, 255, 255, .65); box-shadow: 0 8px 24px rgba(41, 52, 91, .06); line-height: 1.8; }
+.award-card strong { color: var(--navy); }
+.award-card span { color: var(--muted-ink); }
 
 .page__content ul:not(.author__urls) {
   padding-left: 0;
