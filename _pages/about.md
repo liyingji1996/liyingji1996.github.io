@@ -119,9 +119,9 @@ My research interests include trustworthy artificial intelligence, natural langu
 <span class='anchor' id='-shjz'></span>
 ## 🤝 Professional Service | 社会兼职
 <div class="service-list">
-  <div class="service-card"><strong>[1]</strong> 中国计算机学会网络与系统安全专业委员会—执行委员</div>
-  <div class="service-card"><strong>[2]</strong> 中国中文信息学会青年工作委员会—预备委员</div>
-  <div class="service-card"><strong>[3]</strong> 中国中文信息学会大模型与生成专业委员会—委员</div>
-  <div class="service-card"><strong>[4]</strong> 中国图形图像学会数字媒体取证与安全专业委员会—委员</div>
+  <div class="service-card">中国计算机学会网络与系统安全专业委员会—执行委员</div>
+  <div class="service-card">中国中文信息学会青年工作委员会—预备委员</div>
+  <div class="service-card">中国中文信息学会大模型与生成专业委员会—委员</div>
+  <div class="service-card">中国图形图像学会数字媒体取证与安全专业委员会—委员</div>
 </div>
 <span class='anchor' id='-lwzl'></span>
