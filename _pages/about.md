@@ -80,19 +80,19 @@ My research interests include trustworthy artificial intelligence, natural langu
 ## 🧬 Project | 项目
 <div class="project-list">
   <div class="project-card">
-    <strong>[1] 国家自然科学基金青年科学基金项目(C类)</strong><br>
+    <strong>国家自然科学基金青年科学基金项目(C类)</strong><br>
     <span>2027-01-01 至 2029-12-31 · 30万 · 主持</span>
   </div>
   <div class="project-card">
-    <strong>[2] 吉林省教育厅科学研究项目(优秀青年)</strong><br>
+    <strong>吉林省教育厅科学研究项目(优秀青年)</strong><br>
     <span>2026-01-01 至 2027-12-31 · 2.5万 · 主持</span>
   </div>
   <div class="project-card">
-    <strong>[3] 吉林大学鼎新学者支持计划项目</strong><br>
+    <strong>吉林大学鼎新学者支持计划项目</strong><br>
     <span>2025-08-01 至 2027-07-31 · 60万 · 主持</span>
   </div>
   <div class="project-card">
-    <strong>[4] 吉林大学仿真技术教育部重点实验室开放课题</strong><br>
+    <strong>吉林大学仿真技术教育部重点实验室开放课题</strong><br>
     <span>2026-06-01 至 2027-05-31 · 2万 · 主持</span>
   </div>
 </div>
@@ -102,16 +102,26 @@ My research interests include trustworthy artificial intelligence, natural langu
 ## 🏆 Awards & Honors | 奖项荣誉
 <div class="award-list">
   <div class="award-card">
-    <strong>[1] ACM中国优秀博士论文奖（1/1）</strong><br>
+    <strong>ACM中国优秀博士论文奖（1/1）</strong><br>
     <span>ACM中国理事会，2025</span>
   </div>
   <div class="award-card">
-    <strong>[2] CCF教学成果奖“‘教材建设+AI赋能+产教融合’三位一体的计算机网络课程改革与实践”（7/9）</strong><br>
+    <strong>CCF教学成果奖“‘教材建设+AI赋能+产教融合’三位一体的计算机网络课程改革与实践”（7/9）</strong><br>
     <span>中国计算机学会，2025</span>
   </div>
   <div class="award-card">
-    <strong>[3] 研究生国家奖学金（1/1）</strong><br>
+    <strong>研究生国家奖学金（1/1）</strong><br>
     <span>中华人民共和国教育部，2023</span>
   </div>
+</div>
+<span class='anchor' id='-lwzl'></span>
+
+<span class='anchor' id='-shjz'></span>
+## 🤝 Professional Service | 社会兼职
+<div class="service-list">
+  <div class="service-card"><strong>[1]</strong> 中国计算机学会网络与系统安全专业委员会—执行委员</div>
+  <div class="service-card"><strong>[2]</strong> 中国中文信息学会青年工作委员会—预备委员</div>
+  <div class="service-card"><strong>[3]</strong> 中国中文信息学会大模型与生成专业委员会—委员</div>
+  <div class="service-card"><strong>[4]</strong> 中国图形图像学会数字媒体取证与安全专业委员会—委员</div>
 </div>
 <span class='anchor' id='-lwzl'></span>

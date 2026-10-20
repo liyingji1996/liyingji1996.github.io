@@ -261,6 +261,9 @@ body {
 .award-card { padding: 1.15rem 1.3rem; border: 1px solid rgba(218, 166, 58, .22); border-left: 4px solid #d9a63a; border-radius: 14px; background: rgba(255, 255, 255, .65); box-shadow: 0 8px 24px rgba(41, 52, 91, .06); line-height: 1.8; }
 .award-card strong { color: var(--navy); }
 .award-card span { color: var(--muted-ink); }
+.service-list { display: grid; gap: 1rem; margin: 1.25rem 0 2rem; }
+.service-card { padding: 1.15rem 1.3rem; border: 1px solid rgba(114, 87, 232, .16); border-left: 4px solid #7257e8; border-radius: 14px; background: rgba(255, 255, 255, .65); box-shadow: 0 8px 24px rgba(41, 52, 91, .06); line-height: 1.8; }
+.service-card strong { color: var(--violet); }
 
 .page__content ul:not(.author__urls) {
   padding-left: 0;
