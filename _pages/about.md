@@ -78,7 +78,22 @@ My research interests include trustworthy artificial intelligence, natural langu
 
 <span class='anchor' id='-xl'></span>
 ## 🧬 Project | 项目
-- 🧪 中国博士后科学基金第76批面上资助， 大语言模型上下文学习中的分布外偏见缓解方法研究
-- 🧪 吉林省自然科学基金 面上项目， 面向大语言模型上下文学习的捷径学习缓解方法研究
-- 🧪 吉林省教育厅科学研究项目 优秀青年项目
+<div class="project-list">
+  <div class="project-card">
+    <strong>[1] 国家自然科学基金青年科学基金项目(C类)</strong><br>
+    <span>2027-01-01 至 2029-12-31 · 30万 · 主持</span>
+  </div>
+  <div class="project-card">
+    <strong>[2] 吉林省教育厅科学研究项目(优秀青年)</strong><br>
+    <span>2026-01-01 至 2027-12-31 · 2.5万 · 主持</span>
+  </div>
+  <div class="project-card">
+    <strong>[3] 吉林大学鼎新学者支持计划项目</strong><br>
+    <span>2025-08-01 至 2027-07-31 · 60万 · 主持</span>
+  </div>
+  <div class="project-card">
+    <strong>[4] 吉林大学仿真技术教育部重点实验室开放课题</strong><br>
+    <span>2026-06-01 至 2027-05-31 · 2万 · 主持</span>
+  </div>
+</div>
 <span class='anchor' id='-lwzl'></span>
