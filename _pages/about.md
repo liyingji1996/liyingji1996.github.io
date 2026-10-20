@@ -19,7 +19,7 @@ redirect_from:
 
 
 I am a Dingxin Scholar and Assistant Researcher at the [College of Computer Science and Technology](https://ccst.jlu.edu.cn/), [Jilin University](https://www.jlu.edu.cn/). I completed both my bachelor's and doctoral degrees at Jilin University.
-My research interests include trustworthy artificial intelligence, natural language processing, large language models, multimodal learning, and ancient Chinese scripts empowered by artificial intelligence.
+My research interests include trustworthy artificial intelligence, natural language processing, large language models, and multimodal learning.
 
 ## 🎓 Education | 教育经历
 
@@ -27,15 +27,13 @@ My research interests include trustworthy artificial intelligence, natural langu
 
 <div class="education-list">
   <div class="education-card">
-    <strong>Ph.D.</strong> · School of Artificial Intelligence, Jilin University <em>(2020 - 2024)</em><br>
-    Mentor <a href="http://fausto.disi.unitn.it">Prof. Fausto Giunchiglia</a> (Member of the European Academy of Sciences, Foreign Member of Chinese Academy of Sciences) and <a href="https://ccst.jlu.edu.cn/info/1367/19077.htm">Prof. Hao Xu (徐昊)</a>
+    <strong>Ph.D.</strong> · College of Computer Science and Technology, Jilin University <em>(2021 - 2025)</em><br>
   </div>
   <div class="education-card">
-    <strong>M.S.</strong> · College of Computer Science and Technology, Jilin University <em>(2018 - 2020)</em><br>
-    Mentor <a href="https://ccst.jlu.edu.cn/info/1194/17198.htm">Prof. Lan Huang (黄岚)</a>
+    <strong>M.S.</strong> · College of Computer Science and Technology, Jilin University <em>(2019 - 2021)</em><br>
   </div>
   <div class="education-card">
-    <strong>B.S.</strong> · School of Software Engineering, Jilin University <em>(2014 - 2018)</em>
+    <strong>B.S.</strong> · College of Computer Science and Technology, Jilin University <em>(2015 - 2019)</em>
   </div>
 </div>
 
@@ -45,12 +43,10 @@ My research interests include trustworthy artificial intelligence, natural langu
 <span class='anchor' id='-xl'></span>
 ## 📰 News | 新闻
 - 📢 **[Papers 2026-4-8]** Five papers (2 main, 3 findings) have been accepted by ACL 2026!!!
-- 📢 **[Papers 2025-12-19]** Our paper "[AncientBench: Towards Comprehensive Evaluation on Excavated and Transmitted Chinese Corpora](https://arxiv.org/abs/2512.17756)" has been accepted by _AAAI2026_, **CCF A**.
+- 📢 **[Papers 2025-12-19]** Our paper "[Breaking the passive learning trap: An active perception strategy for human motion prediction](https://arxiv.org/abs/2511.14237)" has been accepted by _AAAI2026_, **CCF A**.
 - 📢 **[Papers 2025-8-20]** Our paper "[Retrieval Augmentation for Out-of-Distribution Robustness in Non-knowledge Intensive In-Context Learning](http://engine.scichina.com/doi/10.1007/s11432-025-4558-9)" has been accepted by _SCIENCE CHINA Information Sciences_, **CCF A**.
 - 📢 **[Papers 2025-8-9]** Our paper "[BATED: Learning Fair Representation for Pre-trained Language Models via Biased Teacher-Guided Disentanglement](https://www.sciencedirect.com/science/article/pii/S0004370225001201)" has been accepted by _Artificial Intelligence_, **CCF A**.
 - 📢 **[Papers 2025-8-8]** Our paper "[An empirical study of LLMs via in-context learning for stance classification](https://www.sciencedirect.com/science/article/pii/S0306457325002638)" has been accepted by _Information Processing & Management_.
-- 📢 **[Papers]** Our paper "[A Dual-Mind Framework for Strategic and Expressive Negotiation Agent](https://aclanthology.org/2025.acl-long.1161/)" has been accepted by _ACL_ 2025 main conference, **CCF A**.
-- 📢 **[Papers]** Our paper "[Self-supervised Preference Optimization: Enhance Your Language Model with Preference Degree Awareness](https://aclanthology.org/2024.findings-emnlp.845/)" has been accepted by *EMNLP* 2024 Findings.
 - 📢 **[Papers]** Our survey "[Shortcut Learning in In-Context Learning: A Survey](https://arxiv.org/abs/2411.02018)" has been uploaded to arxiv.
 <span class='anchor' id='-lwzl'></span>
 
