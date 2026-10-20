@@ -78,15 +78,11 @@ body {
 .education-card strong { color: var(--navy); }
 .education-card em { color: var(--muted-ink); }
 .project-list { display: grid; gap: 1rem; margin: 1.25rem 0 2rem; }
-.project-card { padding: 1.15rem 1.3rem; border: 1px solid rgba(53,198,208,.18); border-left: 4px solid var(--cyan); border-radius: 14px; background: rgba(255,255,255,.65); box-shadow: 0 8px 24px rgba(41,52,91,.06); line-height: 1.8; }
-.project-card strong { color: var(--navy); }
-.project-card span { color: var(--muted-ink); }
+.project-card, .award-card, .service-card { padding: 1.15rem 1.3rem; border: 1px solid rgba(53,198,208,.18); border-left: 4px solid var(--cyan); border-radius: 14px; background: rgba(255,255,255,.65); box-shadow: 0 8px 24px rgba(41,52,91,.06); line-height: 1.8; }
+.project-card strong, .award-card strong { color: var(--navy); }
+.project-card span, .award-card span { color: var(--muted-ink); }
 .award-list { display: grid; gap: 1rem; margin: 1.25rem 0 2rem; }
-.award-card { padding: 1.15rem 1.3rem; border: 1px solid rgba(218, 166, 58, .22); border-left: 4px solid #d9a63a; border-radius: 14px; background: rgba(255, 255, 255, .65); box-shadow: 0 8px 24px rgba(41, 52, 91, .06); line-height: 1.8; }
-.award-card strong { color: var(--navy); }
-.award-card span { color: var(--muted-ink); }
 .service-list { display: grid; gap: 1rem; margin: 1.25rem 0 2rem; }
-.service-card { padding: 1.15rem 1.3rem; border: 1px solid rgba(53,198,208,.18); border-left: 4px solid var(--cyan); border-radius: 14px; background: rgba(255,255,255,.65); box-shadow: 0 8px 24px rgba(41,52,91,.06); line-height: 1.8; }
 .page__content ul:not(.author__urls) { padding-left: 0; }
 .page__content ul:not(.author__urls) > li { margin: 1rem 0; padding: 1.15rem 1.25rem; border: 1px solid rgba(114,87,232,.12); border-left: 4px solid var(--cyan); border-radius: 14px; background: rgba(255,255,255,.65); box-shadow: 0 8px 24px rgba(41,52,91,.06); transition: transform .2s ease, box-shadow .2s ease; }
 .page__content ul:not(.author__urls) > li:hover { transform: translateY(-3px); box-shadow: 0 14px 28px rgba(41,52,91,.12); }
