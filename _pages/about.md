@@ -53,25 +53,29 @@ My research interests include trustworthy artificial intelligence, natural langu
 <span class='anchor' id='-xl'></span>
 ## 📚 Selected Publications | 代表论文
 
-论文列表根据 Google Scholar 主页（user=3Ysa5ngAAAAJ）更新，完整列表请见上方 Scholar 链接。
-
-- 📄[A Survey on Fairness in Large Language Models](https://arxiv.org/abs/2308.10149)<br>*arXiv preprint, 2023*<br>
-  🖊 <strong>Yingji Li</strong>, Mengnan Du, Rui Song, Xin Wang, & Ying Wang.
-
-- 📄Prompt Tuning Pushes Farther, Contrastive Learning Pulls Closer: A Two-Stage Approach to Mitigate Social Biases<br>*Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023*<br>
+- 📄Prompt Tuning Pushes Farther, Contrastive Learning Pulls Closer: A Two-stage Approach to Mitigate Social Biases<br>*Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023: 14254–14267* · **CCF A会，独立一作**<br>
   🖊 <strong>Yingji Li</strong>, Mengnan Du, Xin Wang, & Ying Wang.
 
-- 📄Mitigating Social Biases of Pre-trained Language Models via Contrastive Self-Debiasing with Double Data Augmentation<br>*Artificial Intelligence, 2024*<br>
+- 📄Mitigating Social Biases of Pre-trained Language Models via Contrastive Self-Debiasing with Double Data Augmentation<br>*Artificial Intelligence, 2024, 332: 104143* · **CCF A刊，独立一作**<br>
   🖊 <strong>Yingji Li</strong>, Mengnan Du, Rui Song, Xin Wang, Mingchen Sun, & Ying Wang.
 
-- 📄Data-centric Explainable Debiasing for Improving Fairness in Pre-trained Language Models<br>*Findings of ACL, 2024*<br>
+- 📄Data-centric Explainable Debiasing for Improving Fairness in Pre-trained Language Models<br>*Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL), 2024: 3773–3786* · **CCF A会，独立一作**<br>
   🖊 <strong>Yingji Li</strong>, Mengnan Du, Rui Song, Xin Wang, & Ying Wang.
 
-- 📄BATED: Learning Fair Representation for Pre-trained Language Models via Biased Teacher-Guided Disentanglement<br>*Artificial Intelligence, 2025*<br>
-  🖊 <strong>Yingji Li</strong>, Mengnan Du, Rui Song, Mengjie Liu, & Ying Wang.
+- 📄BATED: Learning Fair Representation for Pre-trained Language Models via Biased Teacher-Guided Disentanglement<br>*Artificial Intelligence, 2025* · **CCF A刊，独立一作**<br>
+  🖊 <strong>Yingji Li</strong>, Mengnan Du, Rui Song, Mu Liu, & Ying Wang.
 
-- 📄Enhancing Multimodal Large Language Models for Ancient Chinese Character Evolution Analysis via Glyph-driven Fine-tuning<br>*Proceedings of ACL, 2026*<br>
-  🖊 Rui Song, Lida Shi, Ruihua Qi, <strong>Yingji Li</strong>, & Hao Xu.
+- 📄Distilling the Essence, Discarding the Dross: Improving Fairness in Multimodal Large Language Models via Historical Reflection-guided Prompt Optimization<br>*Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026* · **CCF A会，独立通讯**<br>
+  🖊 Juncheng Hu, Jiming Yu, Rui Song, Kedi Lyu, <strong>Yingji Li</strong><sup>*</sup>, & Zheli Liu.
+
+- 📄Automatic Prompt Debiasing via Contrastive Reflection for Fairness Enhancement in Large Language Models<br>*Artificial Intelligence, 2026, 360: 104625* · **CCF A刊，独立通讯**<br>
+  🖊 Juncheng Hu, <strong>Yingji Li</strong><sup>*</sup>, Rui Song, Kedi Lyu, & Yi Chang.
+
+- 📄Learning Continuous Dynamic Network Representation with Transformer-based Temporal Graph Neural Network<br>*Information Sciences, 2023, 649: 119596* · **中科院 SCI 一区，独立一作**<br>
+  🖊 <strong>Yingji Li</strong>, Yue Wu, Mingchen Sun, Bo Yang, & Ying Wang.
+
+- 📄Enhancing Fairness in Decision-making of Natural Language Understanding Systems: An Intersectional Bias Debiasing Model via Information Theory-based Disentanglement<br>*Expert Systems with Applications, 2026, 306: 130940* · **中科院 SCI 一区，独立一作**<br>
+  🖊 <strong>Yingji Li</strong>, Juncheng Hu, Rui Song, & Liang Hu.
 
 <span class='anchor' id='-lwzl'></span>
 
